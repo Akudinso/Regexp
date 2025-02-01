@@ -6,6 +6,7 @@ Discussion: After much research on the different trypes of credit card, i decide
 
 
 Verve Card Regex Explanation
+
 ^ - start of the string
 
 (5061|6500|5078|5021|5044) - Must start with one of these Verve prefixes
